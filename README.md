@@ -87,3 +87,25 @@ To confirm it worked:
 
    ```bash
    python --version
+You should see something like Python 3.11.4.
+
+If that fails, try:
+
+py --version
+
+macOS
+
+Go to: https://www.python.org/downloads/
+
+Download the latest macOS installer.
+
+Run it.
+
+Open Terminal and type:
+
+python3 --version
+
+
+You should see a Python 3.x version.
+
+Use python3 in the commands below.
